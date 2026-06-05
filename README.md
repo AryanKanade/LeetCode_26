@@ -6,4 +6,4 @@ I made this repository to track my progress on LeetCode and I will be posting al
 
 | # | Problem | Solution |
 |---|---------|----------|
-| 1 | Itinerary | [Java](./0001-Find_Itinerary-from-Tickets/Solution.java) |
+| 1 | Itinerary | [Java]([./0001-Find_Itinerary-from-Tickets/Solution.java]) |

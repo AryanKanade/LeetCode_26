@@ -4,6 +4,7 @@ I made this repository to track my progress on LeetCode and I will be posting al
 
 # HashMap
 
-| # | Problem | Solution |
-|---|---------|----------|
-| 1 | Itinerary | [Java Solution](./0001-Find_Itinerary_from_Tickets/Solution.java) |
+| # |             Problem             |                         Solution                         |
+|---|---------------------------------|----------------------------------------------------------|
+| 1 | Itinerary                       | [Java](./0001-Find_Itinerary-from-Tickets/Solution.java) |
+| 2 | Leetcode-560                    | [Java](./0002-Subarray_Sum_Equals_K/Solution.java)       |

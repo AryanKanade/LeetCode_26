@@ -11,6 +11,7 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | 3 | Frequency_of_Array_Elements     | [Java](./0003-Frequency_of_Array_Elements/Solution.java) |
 | 4 | Highest_Occurring_ELement       | [Java](./0004-Highest_Occurring_Element/Solution.java)   |
 | 5 | Leetcode-1                      | [Java](./0005-Two_Sum_Hashing/Solution.java)             |
+| 6 | Leetcode-128                    | [Java](./0007-Longest_Consecutive_Sequence/Solution.java)|
 
 
 # Arrays

@@ -12,6 +12,7 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | 4 | Highest_Occurring_ELement       | [Java](./0004-Highest_Occurring_Element/Solution.java)   |
 | 5 | Leetcode-1                      | [Java](./0005-Two_Sum_Hashing/Solution.java)             |
 | 6 | Leetcode-128                    | [Java](./0007-Longest_Consecutive_Sequence/Solution.java)|
+| 7 | Leetcode-290                    | [Java](./0008-Word_Pattern/Solution.java)                |
 
 
 # Arrays

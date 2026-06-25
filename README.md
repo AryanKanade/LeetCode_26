@@ -13,6 +13,7 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | 5 | Leetcode-1(HashMap)             | [Java](./0005-Two_Sum_Hashing/Solution.java)             |
 | 6 | Leetcode-128                    | [Java](./0007-Longest_Consecutive_Sequence/Solution.java)|
 | 7 | Leetcode-290                    | [Java](./0008-Word_Pattern/Solution.java)                |
+| 8 | Leetcode-205                    | [Java](./0009-Isomorphic_String/Solution.java)           |
 
 
 # Arrays

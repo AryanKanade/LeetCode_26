@@ -16,6 +16,11 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | 8 | Leetcode-205                    | [Java](./0009-Isomorphic_String/Solution.java)           |
 | 9 | Leetcode-299                    | [Java](./0010-Bulls_and_Cows/Solution.java)              |
 
+# Recursion
+| # |             Problem             |                         Solution                         |
+|---|---------------------------------|----------------------------------------------------------|
+| 1 | Remove_Duplicates               | [Java](./0011-Remove_Duplicate_Recursion/Solution.java)  |
+
 # Arrays
 
 | # |             Problem             |                         Solution                         |

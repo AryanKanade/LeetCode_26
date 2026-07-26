@@ -21,6 +21,7 @@ I made this repository to track my progress on LeetCode and I will be posting al
 |---|---------------------------------|----------------------------------------------------------|
 | 1 | Remove_Duplicates               | [Java](./0011-Remove_Duplicate_Recursion/Solution.java)  |
 | 2 | Print_Subsequence               | [java](./0012-Print_Subsequences/Solution.java)          |
+| 3 | Leetcode-125                    | [java](./0013-isPalindrome_recursion/Solution.java)      |
 
 # Arrays
 

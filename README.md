@@ -31,3 +31,4 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | 1   | Leetcode-1                  | [Java](./0005-Two_Sum/Solution.java)                             |
 | 2   | Longest_Subarray_with_sum_K | [Java](<./0014-Longest_subarray_with_sum_K(both)/Solution.java>) |
 | 3   | Two_sum_2_Pointers          | [Java](./0015-Two_Sum_Sorted/Solution.java)                      | 
+| 4   | Sort Colors                 | [Java](./0016-Sort_Colors/Solution.java)                         | 

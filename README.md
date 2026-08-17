@@ -33,3 +33,4 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | 3   | Two_sum_2_Pointers          | [Java](./0015-Two_Sum_Sorted/Solution.java)                      | 
 | 4   | Leetcode-75                 | [Java](./0016-Sort_Colors/Solution.java)                         | 
 | 5   | Leetcode-169                | [Java](./0017-Majority_Element/Solution.java)                    | 
+| 6   | Leetcode-53                 | [Java](./0018-maxSubArray/Solution.java)                         |

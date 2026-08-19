@@ -36,3 +36,4 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | 6   | Leetcode-53                 | [Java](./0018-maxSubArray/Solution.java)                         | 
 | 7   | Leetcode-121                | [Java](./0019-Buy_and_Sell_Stocks/Solution.java)                 | 
 | 8   | Leetcode-2149               | [Java](./0020-Rearrange_Array_Elements/Solution.java)            |
+| 9   | Leetcode-73                 | [Java](./0021-Set_Matrix_Zeroes/Solution.java)                   | 

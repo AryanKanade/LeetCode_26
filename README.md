@@ -40,5 +40,6 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | 10  | Leaders_in_an_array         | [java](./0022-Leaders_in_an_array/Solution.java)                 | 
 | 11  | Leetcode-48                 | [java](./0023-Rotate_Matrix_Image/Solution.java)                 | 
 | 12  | Leetcode-54                 | [java](./0024-Spiral_Matrix/Solution.java)                       |
+| 13  | Leetcode-31                 | [java](./0025-Next_Permutation/Solution.java)                    | 
 
 # Misslenious 

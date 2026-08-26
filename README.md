@@ -42,5 +42,6 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | 12  | Leetcode-54                 | [java](./0024-Spiral_Matrix/Solution.java)                       |
 | 13  | Leetcode-31                 | [java](./0025-Next_Permutation/Solution.java)                    | 
 | 14  | Leetcode-229                | [java](./0026-Majority_Element _II/Solution.java)                | 
+| 15  | Leetcode-118                | [java](./0027-Pascal's_Triangle/Solution.java)                   |
 
 # Misslenious 

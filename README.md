@@ -45,3 +45,5 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | 15  | Leetcode-118                | [java](./0027-Pascal's_Triangle/Solution.java)                   |
 
 # Misslenious 
+# Strings
+| 01  | Leetcode-28     | [java](./0028-First_Occurrence_in_a_String/Solution.java)        |

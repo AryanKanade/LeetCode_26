@@ -45,6 +45,7 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | 15  | Leetcode-118                | [java](./0027-Pascal's_Triangle/Solution.java)                   |
 | 16  | Leetcode-15                 | [java](./0029-3Sum/Solution.java)                                |
 | 17  | Leetcode-18                 | [java](./0030-4Sum/Solution.java)                                |
+| 18  | Leetcode-88                 | [java](./0031-Merge_sorted_arrays/Solution.java)                 |
 
 # Misslenious 
 

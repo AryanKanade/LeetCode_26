@@ -48,8 +48,9 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | 18  | Leetcode-88                 | [java](./0031-Merge_sorted_arrays/Solution.java)                 |
 | 19  | Subarray_with_xor_K         | [java](./0032-Subarray_with_xor_K/Solution.java)                 |
 
-# Misslenious 
+# Binary Search
+| 1  | Leetcode-704                 | [java](./0033-Binary_Search/Solution.java)                       | 
 
 
 # Strings
-| 01  | Leetcode-28     | [java](./0028-First_Occurrence_in_a_String/Solution.java)        |
+| 01  | Leetcode-28     | [java](./0028-First_Occurrence_in_a_String/Solution.java)        | 

@@ -50,6 +50,7 @@ I made this repository to track my progress on LeetCode and I will be posting al
 
 # Binary Search
 | 1  | Leetcode-704                 | [java](./0033-Binary_Search/Solution.java)                       | 
+| 2  | Leetcode-35                  | [java](./0034-Search_Insert_Position/Solution.java)              | 
 
 
 # Strings

@@ -59,4 +59,4 @@ I made this repository to track my progress on LeetCode and I will be posting al
 # Strings
 | #   | Problem           | Solution                                                |
 | --- | ----------------- | ------------------------------------------------------- |
-| 01  | Leetcode-28       | [java](./0028-First_Occurrence_in_a_String/Solution.java)        | 
+| 01  | Leetcode-28       | [java](./0028-First_Occurrence_in_a_String/Solution.java)        |  

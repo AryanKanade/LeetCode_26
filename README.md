@@ -55,6 +55,7 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | 2  | Leetcode-35        | [java](./0034-Search_Insert_Position/Solution.java)              | 
 | 3  | Leetcode-34        | [java](./0035-First_and_Last_Occurance/Solution.java)            | 
 | 4  | Leetcode-33        | [java](./0036-Search_in_Rotated_Sorted_Array/Solution.java)      | 
+| 5  | Leetcode-81        | [java](./0037-Search_in_Rotated_Sorted_Array_II/Solution.java)   | 
 
 # Strings
 | #   | Problem           | Solution                                                         |

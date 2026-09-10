@@ -41,7 +41,7 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | 11  | Leetcode-48                 | [java](./0023-Rotate_Matrix_Image/Solution.java)                 | 
 | 12  | Leetcode-54                 | [java](./0024-Spiral_Matrix/Solution.java)                       |
 | 13  | Leetcode-31                 | [java](./0025-Next_Permutation/Solution.java)                    | 
-| 14  | Leetcode-229                | [java](./0026-Majority_Element_II/Solution.java)                | 
+| 14  | Leetcode-229                | [java](./0026-Majority_Element_II/Solution.java)                 | 
 | 15  | Leetcode-118                | [java](./0027-Pascal's_Triangle/Solution.java)                   |
 | 16  | Leetcode-15                 | [java](./0029-3Sum/Solution.java)                                |
 | 17  | Leetcode-18                 | [java](./0030-4Sum/Solution.java)                                |
@@ -49,14 +49,14 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | 19  | Subarray_with_xor_K         | [java](./0032-Subarray_with_xor_K/Solution.java)                 |
 
 # Binary Search
-| #   | Problem           | Solution                                                |
-| --- | ----------------- | ------------------------------------------------------- |
+| #   | Problem           | Solution                                                         |
+| --- | ----------------- | ---------------------------------------------------------------- |
 | 1  | Leetcode-704       | [java](./0033-Binary_Search/Solution.java)                       | 
 | 2  | Leetcode-35        | [java](./0034-Search_Insert_Position/Solution.java)              | 
 | 3  | Leetcode-34        | [java](./0035-First_and_Last_Occurance/Solution.java)            | 
-
+| 4  | Leetcode-33        | [java](./0036-Search_in_Rotated_Sorted_Array/Solution.java)      | 
 
 # Strings
-| #   | Problem           | Solution                                                |
-| --- | ----------------- | ------------------------------------------------------- |
+| #   | Problem           | Solution                                                         |
+| --- | ----------------- | -----------------------------------------------------------------|
 | 01  | Leetcode-28       | [java](./0028-First_Occurrence_in_a_String/Solution.java)        |  

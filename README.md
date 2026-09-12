@@ -58,6 +58,7 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | 5  | Leetcode-81        | [java](./0037-Search_in_Rotated_Sorted_Array_II/Solution.java)   | 
 | 6  | Leetcode-153       | [java](./0038-Min_In_Rotated_Sorted_Array/Solution.java)         |
 | 7  | Leetcode-540       | [java](./0039-Single_Element_In_Sorted_Array/Solution.java)      |
+| 8  | Leetcode-162       | [java](./0040-Find_Peak_Element/Solution.java)                   |
 
 # Strings
 | #   | Problem           | Solution                                                         |

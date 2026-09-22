@@ -3,7 +3,6 @@ Given a positive integer n. Find and return its square root. If n is not a perfe
 
 Example 1
 
-
 Input: n = 36
 
 Output: 6
@@ -12,7 +11,6 @@ Explanation: 6 is the square root of 36.
 
 
 Example 2
-
 
 Input: n = 28
 

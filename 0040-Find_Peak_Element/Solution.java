@@ -3,14 +3,13 @@ class Solution {
         if(nums.length == 1){
             return 0;
         }
-        int low = 0;
-        int high = nums.length-1;
+        if(nums[0]>nums[1]) return 0;
+        if(nums[nums.length-1]>nums[nums.length-2]) return nums.length-1;
+        int low = 1;
+        int high = nums.length-2;
         int mid = 0;
         while(low<=high){
             mid = low +(high-low)/2;
-            if(mid == 0 && nums[mid+1]<nums[mid] || mid == nums.length-1 && nums[mid-1]<nums[mid]){
-                return mid;
-            }
             if(nums[mid+1]<nums[mid] && nums[mid-1]<nums[mid]){
                 return mid;
             }

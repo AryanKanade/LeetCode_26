@@ -49,18 +49,19 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | 19  | Subarray_with_xor_K         | [java](./0032-Subarray_with_xor_K/Solution.java)                 |
 
 # Binary Search
-| #  | Problem           | Solution                                                         |
-| -- | ----------------- | ---------------------------------------------------------------- |
-| 1  | Leetcode-704       | [java](./0033-Binary_Search/Solution.java)                       | 
-| 2  | Leetcode-35        | [java](./0034-Search_Insert_Position/Solution.java)              | 
-| 3  | Leetcode-34        | [java](./0035-First_and_Last_Occurance/Solution.java)            | 
-| 4  | Leetcode-33        | [java](./0036-Search_in_Rotated_Sorted_Array/Solution.java)      | 
-| 5  | Leetcode-81        | [java](./0037-Search_in_Rotated_Sorted_Array_II/Solution.java)   | 
-| 6  | Leetcode-153       | [java](./0038-Min_In_Rotated_Sorted_Array/Solution.java)         |
-| 7  | Leetcode-540       | [java](./0039-Single_Element_In_Sorted_Array/Solution.java)      |
-| 8  | Leetcode-162       | [java](./0040-Find_Peak_Element/Solution.java)                   |
-| 9  | Leetcode-69        | [java](./0041-Sqrt_of_Number/Solution.java)                      |
-| 10 | Floor_&_Ceil       | [java](./0042-Floor_&_Ceil/Solution.java)                        |
+| #  | Problem                  | Solution                                                         |
+| -- | ------------------------ | ---------------------------------------------------------------- |
+| 1  | Leetcode-704             | [java](./0033-Binary_Search/Solution.java)                       | 
+| 2  | Leetcode-35              | [java](./0034-Search_Insert_Position/Solution.java)              | 
+| 3  | Leetcode-34              | [java](./0035-First_and_Last_Occurance/Solution.java)            | 
+| 4  | Leetcode-33              | [java](./0036-Search_in_Rotated_Sorted_Array/Solution.java)      | 
+| 5  | Leetcode-81              | [java](./0037-Search_in_Rotated_Sorted_Array_II/Solution.java)   | 
+| 6  | Leetcode-153             | [java](./0038-Min_In_Rotated_Sorted_Array/Solution.java)         |
+| 7  | Leetcode-540             | [java](./0039-Single_Element_In_Sorted_Array/Solution.java)      |
+| 8  | Leetcode-162             | [java](./0040-Find_Peak_Element/Solution.java)                   |
+| 9  | Leetcode-69              | [java](./0041-Sqrt_of_Number/Solution.java)                      |
+| 10 | Floor_&_Ceil             | [java](./0042-Floor_&_Ceil/Solution.java)                        |
+| 11 | Count_Occurances(Sorted) | [java](./0043-Count_Occurances(Sorted)/Solution.java)            | 
 
 # Strings
 | #   | Problem           | Solution                                                         |

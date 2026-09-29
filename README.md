@@ -67,3 +67,8 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | #   | Problem           | Solution                                                         |
 | --- | ----------------- | -----------------------------------------------------------------|
 | 01  | Leetcode-28       | [java](./0028-First_Occurrence_in_a_String/Solution.java)        |  
+
+# Misclenous
+| #  | Problem                  | Solution                                                         |
+| -- | ------------------------ | ---------------------------------------------------------------- |
+| 1  | Leetcode-507             | [java](./0044-Perfect_Number/Solution.java)                      | 

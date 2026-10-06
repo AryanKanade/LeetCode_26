@@ -62,6 +62,7 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | 9  | Leetcode-69              | [java](./0041-Sqrt_of_Number/Solution.java)                      |
 | 10 | Floor_&_Ceil             | [java](./0042-Floor_&_Ceil/Solution.java)                        |
 | 11 | Count_Occurances(Sorted) | [java](./0043-Count_Occurances(Sorted)/Solution.java)            | 
+| 12 | Leetcode-1283            | [java](./0045-Smallest_Divisor_Given_a_Threshold/Solution.java)  | 
 
 # Strings
 | #   | Problem           | Solution                                                         |

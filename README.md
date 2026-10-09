@@ -66,6 +66,7 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | 13 | Leetcode-875             | [java](./0046-Koko_Eating_Bananas/Solution.java)                      |
 | 14 | Leetcode-1482            | [java](./0047-Minimum_Number_of_Days_to_Make_m_Bouquets/Solution.java)|
 | 15 | Leetcode-1011            | [java](./0048-Capacity_To_Ship_Packages_Within_D_Days/Solution.java)  |
+| 16 | Leetcode-1539            | [java](./0049-Kth_Missing_Positive_Number/Solution.java)              |
 
 # Strings
 | #   | Problem           | Solution                                                         |

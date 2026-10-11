@@ -77,3 +77,4 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | #  | Problem                  | Solution                                                         |
 | -- | ------------------------ | ---------------------------------------------------------------- |
 | 1  | Leetcode-507             | [java](./0044-Perfect_Number/Solution.java)                      | 
+| 2  | Leetcode-7               | [java](./0050-Reverse_Integer/Solution.java)                     |

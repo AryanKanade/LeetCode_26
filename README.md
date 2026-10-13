@@ -47,6 +47,7 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | 17  | Leetcode-18                 | [java](./0030-4Sum/Solution.java)                                |
 | 18  | Leetcode-88                 | [java](./0031-Merge_sorted_arrays/Solution.java)                 |
 | 19  | Subarray_with_xor_K         | [java](./0032-Subarray_with_xor_K/Solution.java)                 |
+| 20  | Leetcode-204                | [java](./0052-Count_Primes/Solution.java)                        |
 
 # Binary Search
 | #  | Problem                  | Solution                                                              |

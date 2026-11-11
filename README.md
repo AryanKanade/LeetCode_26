@@ -73,6 +73,7 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | #   | Problem           | Solution                                                         |
 | --- | ----------------- | -----------------------------------------------------------------|
 | 01  | Leetcode-28       | [java](./0028-First_Occurrence_in_a_String/Solution.java)        |  
+| 02  | Leetcode-1021     | [java](./0053-Remove_Outermost_Parentheses/Solution.java)        | 
 
 # Misclenous
 | #  | Problem                  | Solution                                                         |

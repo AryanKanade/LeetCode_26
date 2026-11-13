@@ -76,6 +76,7 @@ I made this repository to track my progress on LeetCode and I will be posting al
 | 02  | Leetcode-1021     | [java](./0053-Remove_Outermost_Parentheses/Solution.java)        |
 | 03  | Leetcode-1614     | [java](./0054-Maximum_Nesting_Depth_Parentheses/Solution.java)   |
 | 04  | Leetcode-13       | [java](./0055-Roman_to_Integer/Solution.java)                    |
+| 05  | Leetcode-8        | [java](./0056-String_to_er_(atoi)/Solution.java)                 |
 
 
 # Misclenous
